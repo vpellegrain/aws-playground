@@ -1,1 +1,1 @@
-# aws-playground
+# cloud-playground
